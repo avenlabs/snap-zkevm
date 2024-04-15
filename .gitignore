@@ -1,0 +1,7 @@
+.DS_Store
+.env
+datastream.db/
+datastream.bin
+node_modules
+deploy_output.json
+wallets.txt
